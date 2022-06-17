@@ -1,0 +1,14 @@
+[
+  {
+    "package": "crplyr",
+    "oncran": true
+  },
+  {
+    "package": "crunch",
+    "oncran": true
+  },
+  {
+    "package": "crunchy",
+    "oncran": true
+  }
+]
