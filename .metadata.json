@@ -1,10 +1,10 @@
 [
   {
-    "package": "crunch",
+    "package": "crplyr",
     "oncran": true
   },
   {
-    "package": "crplyr",
+    "package": "crunch",
     "oncran": true
   },
   {
