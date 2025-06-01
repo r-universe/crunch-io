@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "crplyr"]
-	path = crplyr
-	url = https://github.com/crunch-io/crplyr
 [submodule "crunch"]
 	path = crunch
 	url = https://github.com/crunch-io/rcrunch
